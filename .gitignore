@@ -5,3 +5,4 @@ plugins/
 data/
 *.py_
 *.yaml_
+*.yaml__
