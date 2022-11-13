@@ -16,7 +16,7 @@ make a new project folder and create the following dirs (if those does not exist
 for linux also run  
 `echo -e "AIRFLOW_UID=$(id -u)" > .env`
 
-run to initialize databases and more  
+run to initialize databases and more (unsure about this one)    
 `docker-compose up airflow-init`
 
 lastly run  
