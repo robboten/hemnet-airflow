@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+requests = "*"
+jupyter = "*"
+pandas = "*"
+pyyaml = "*"
+pyarrow = "*"
+fastparquet = "*"
 
 [dev-packages]
 
