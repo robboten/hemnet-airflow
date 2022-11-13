@@ -1,0 +1,6 @@
+requests
+pandas
+airflow
+pendulum
+json
+bs4
