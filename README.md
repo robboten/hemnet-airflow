@@ -20,9 +20,9 @@ lastly run
 `docker-compose up -d`
 
 if it doesn't run.. 
-run to initialize databases and more (unsure about this one)    
+run to initialize databases and more (unsure about this one)
 `docker-compose up airflow-init`
 
-When Airflow is running on localhost/8080 open the dag list and activate the dags with tags Hemnet Scraping.     
-Edit the area_codes.json as suited and run the Hemnet_init dag to initialize all variables.    
-Then run the Hemnet_from_map_id (or wait for schedule to run)    
+When Airflow is running on localhost/8080 open the dag list and activate the dags with tags Hemnet Scraping.
+Edit the area_codes.json as suited and run the Hemnet_init dag to initialize all variables.
+Then run the Hemnet_from_map_id (or wait for schedule to run)
